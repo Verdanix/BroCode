@@ -34,4 +34,4 @@ As we collect contributions from around the world, we plan to compile them into 
 
 **Join us!**
 
-We're excited to have you join our community and contribute to BroCode. Let's build the most comprehensive brother code repository out there!
+We're excited to have you join our community and contribute to BroCode. Let's build the most comprehensive bro-code rulebook out there!
