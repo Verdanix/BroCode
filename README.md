@@ -4,7 +4,7 @@ Welcome to BroCode, the ultimate repository for all things bro-related! This pro
 
 **Contributing to BroCode**
 
-Want to contribute to BroCode? Head on over to our [contributing guide](contributing.md) to learn more about how to submit a pull request, get approval from at least 5 "bro"s, and have your contributions compiled into a beautiful leather-bound book!
+Want to contribute to BroCode? Head on over to our [contributing guide](CONTRIBUTING.md) to learn more about how to submit a pull request, get approval from at least 5 "bro"s, and have your contributions compiled into a beautiful leather-bound book!
 
 **Articles: The Main Course**
 
@@ -29,8 +29,8 @@ As we collect contributions from around the world, we'll compile them into a bea
 
 We're excited to have you join our community and contribute to BroCode. Let's build the most comprehensive bro-code rulebook repository out there!
 
-[Contributing Guide](contributing.md)
+[Contributing Guide](CONTRIBUTING.md)
 
 [Articles Directory](articles/)
 
-[Contribution Index](articles/contributor-index.md)
+[Contribution Index](contributor-index.md)
