@@ -1,4 +1,4 @@
-u**BroCode: The Official BroCode Rulebook**
+**BroCode: The Official BroCode Rulebook**
 
 Welcome to BroCode, the ultimate repository for all things bro-related! This project aims to collect and codify the unwritten rules and guidelines that govern the behavior of brothers around the world.
 
