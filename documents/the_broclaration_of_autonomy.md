@@ -30,3 +30,5 @@ We, the United Brothers of the World, do ordain and establish this document as t
 **The Signature:**
 
 Signed, in **Committee Form**, by representatives of the United Brothers of the World, on this day, [Date], at [Location].
+- [Mason Root](https://github.com/Verdanix)
+- [GSayson](https://github.com/gsayson)
