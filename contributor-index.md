@@ -9,3 +9,11 @@ Below are the people who contributed.
 **GitHub**: @Verdanix
 
 **Linkedin**: @mason-root
+
+---
+
+**Contributor**: Gerard Sayson
+
+**GitHub**: @gsayson
+
+**Linkedin**: @gsaysonbz
